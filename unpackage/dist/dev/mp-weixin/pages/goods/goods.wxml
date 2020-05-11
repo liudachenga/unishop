@@ -1,0 +1,1 @@
+<view><view class="hotgoods"><view class="tit"></view><goods-list vue-id="576f0adc-1" goodsList="{{goodsList}}" bind:__l="__l"></goods-list></view><view hidden="{{!(sole)}}" class="buttom">--我也是有底线的--</view></view>

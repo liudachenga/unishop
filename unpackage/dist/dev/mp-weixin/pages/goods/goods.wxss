@@ -1,0 +1,14 @@
+.hotgoods {
+  background-color: #eee;
+  overflow: hidden;
+}
+.hotgoods .tit {
+  margin: 10rpx 0 0;
+}
+.buttom {
+  text-align: center;
+  font-size: 26rpx;
+  margin: 5rpx 0;
+  color: #ccc;
+}
+

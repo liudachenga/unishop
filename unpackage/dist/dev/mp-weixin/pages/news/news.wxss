@@ -1,0 +1,31 @@
+.dad {
+  padding: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-bottom: 1px solid red;
+}
+.dad image {
+  width: 120px;
+  height: 120px;
+}
+.dad .right {
+  padding: 10rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.dad .right .titie {
+  text-align: center;
+}
+.dad .right .name {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 28rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-top: 10rpx;
+}
+

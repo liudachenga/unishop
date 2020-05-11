@@ -1,0 +1,54 @@
+.box1 {
+  margin-top: 20rpx;
+}
+.box1 .swiper {
+  height: 550rpx;
+}
+.box2 {
+  padding: 10rpx;
+}
+.box2 .moeny {
+  margin-top: 10rpx;
+}
+.box2 .moeny .new {
+  color: red;
+  font-size: 36rpx;
+}
+.box2 .moeny .old {
+  margin-left: 20rpx;
+  font-size: 26rpx;
+  text-decoration: line-through;
+  color: #ccc;
+}
+.box2 .title {
+  margin: 20rpx 0;
+}
+.box2 .line {
+  border-bottom: 2px solid #ccc;
+}
+.box2 .type view:nth-child(1) {
+  margin: 15rpx 0;
+}
+.box2 .type view:nth-child(2) {
+  margin-bottom: 15rpx;
+}
+.box3 {
+  margin-bottom: 50rpx;
+  padding: 0 10rpx 10rpx;
+  line-height: 50rpx;
+  font-size: 32rpx;
+}
+.box3 .detail {
+  font-size: 34rpx;
+  padding: 5rpx 0;
+}
+.box3 .gomeImgLoad {
+  width: 100%;
+  height: 100%;
+}
+.shop {
+  position: fixed;
+  width: 750rpx;
+  bottom: 0;
+}
+

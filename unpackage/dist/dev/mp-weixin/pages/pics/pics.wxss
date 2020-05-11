@@ -1,0 +1,40 @@
+page {
+  height: 100%;
+}
+.dad {
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.scroll-left {
+  height: 100%;
+  width: 200rpx;
+  border-right: 1px solid #ccc;
+}
+.scroll-left view {
+  width: 200rpx;
+  line-height: 120rpx;
+  height: 120rpx;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+.red {
+  background-color: red;
+  color: #fff;
+}
+.scroll-right {
+  width: 530rpx;
+  margin: 0 auto;
+}
+.scroll-right .item image {
+  margin-top: 10rpx;
+}
+.scroll-right .item .title {
+  font-size: 32rpx;
+  margin: 10rpx 0;
+}
+.scroll-right .item .zhaiyao {
+  margin: 40rpx 0;
+}
+

@@ -1,0 +1,18 @@
+
+.dad {
+	padding: 20rpx;
+}
+.titie {
+	text-align: center;
+	font-size: 36rpx;
+}
+.name {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	margin-bottom: 10rpx;
+}
+

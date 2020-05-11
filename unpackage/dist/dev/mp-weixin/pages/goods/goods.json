@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "购物超市",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "light",
+  "backgroundColor": "#ccc",
+  "usingComponents": {
+    "goods-list": "/components/goods-list/goods-list"
+  }
+}

@@ -1,0 +1,52 @@
+.swiper {
+  width: 750rpx;
+  height: 350rpx;
+}
+.swiper image {
+  width: 100%;
+  height: 100%;
+}
+.nav {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.nav .nav_son {
+  text-align: center;
+  margin-top: 10rpx;
+}
+.nav .nav_son view {
+  width: 120rpx;
+  height: 120rpx;
+  background-color: #c41e00;
+  border-radius: 50%;
+  line-height: 120rpx;
+  color: #fff;
+}
+.nav .nav_son text {
+  font-size: 30rpx;
+  margin-top: 10rpx;
+}
+.hotgoods {
+  background-color: #eee;
+  overflow: hidden;
+  margin-top: 10rpx;
+}
+.hotgoods .tit {
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  letter-spacing: 20rpx;
+  color: #c41e00;
+  background-color: #fff;
+  margin: 10rpx 0;
+}
+.buttom {
+  text-align: center;
+  font-size: 26rpx;
+  margin: 5rpx 0;
+  color: #ccc;
+}
+

@@ -1,0 +1,1 @@
+<view><view class="dad"><view class="titie">{{newsInfo.title}}</view><view class="name"><text>{{$root.f0}}</text><text>{{"浏览:"+newsInfo.click}}</text></view><rich-text nodes="{{newsInfo.content}}"></rich-text></view></view>
